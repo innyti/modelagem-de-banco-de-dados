@@ -14,7 +14,7 @@ Está ligado ao  “Baixo Nível” – linguagem das máquinas – modelos fisi
 <h2>Mini-Mundo</h2>
 É um recorte do mundo real. <br/> 
 
-![alt text](https://github.com/innyti/modelagem-de-banco-de-dados/blob/636145c73046740fb39d62268b0102ce856a7f89/Sem%20t%C3%ADtulo.png)
+![alt text](https://github.com/innyti/modelagem-de-banco-de-dados/blob/66483757e257ceca2019bea99e5f986601e97347/Images/Sem%20t%C3%ADtulo.png)
 
 <h3> Abstração</h3>
 É um processo mental que permite escolher ou isolar um aspecto de coisas complexas, tem como finalidade simplificar. <br/> 
