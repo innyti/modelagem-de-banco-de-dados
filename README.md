@@ -32,6 +32,7 @@ Em resumo, a entrevista é a base para construir um projeto coerente e que atend
 
 <h5>MER</h5> 
 Modelo Entidade de Relacionamento
+
 ```
 •	Modelo conceitual;
 •	Usado para descrever objetos, suas característica e como se relacionam
@@ -45,6 +46,7 @@ Diagrama Entidade de Relacionamento
 ```
 --
 <h7>Entidade </h7>
+
 ```
 •	Entidade é um objeto único no mundo real;
 1.	Clientes de uma empresa
@@ -55,13 +57,16 @@ Diagrama Entidade de Relacionamento
 
 ENTIDADES<br/> 
 Entidade Forte<br/> 
+
 ```
 Existe independentemente de outra entidade
 ```
 Uma entidade forte sempre tem a chave primária no conjunto de atributos que descreve a entidade forte. A entidade forte, por si só, possui um atributo que poderá ser utilizado como chave primária.</B>
 
 Entidade Fraca<br/> 
+
 ```
 Depende da existência de outra entidade 
 ```
+
 A entidade fraca não possui a chave primária, mas tem uma chave parcial que discrimina de maneira única as entidades fracas. A entidade fraca possui uma chave composta formada a partir da chave primária da entidade forte e chave parcial da entidade fraca</B>
